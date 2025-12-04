@@ -1,0 +1,12 @@
+2025-12-04 22:25:43,600 - INFO - Catalog file not found, starting with empty inventory.
+2025-12-04 22:25:56,539 - INFO - Catalog file not found, starting with empty inventory.
+2025-12-04 22:26:19,513 - INFO - Book added: [1212919913] Wings of fir by APJ Abdul Kalam - Available
+2025-12-04 22:26:19,514 - INFO - Catalog successfully saved to catalog.json
+2025-12-04 22:26:45,698 - INFO - Book added: [1901200103] Do talk back by Manish Malhotra - Available
+2025-12-04 22:26:45,700 - INFO - Catalog successfully saved to catalog.json
+2025-12-04 22:27:13,823 - INFO - Catalog successfully saved to catalog.json
+2025-12-04 22:27:13,824 - INFO - Book issued: [1212919913] Wings of fir by APJ Abdul Kalam - Issued
+2025-12-04 22:27:22,328 - INFO - Catalog successfully saved to catalog.json
+2025-12-04 22:27:22,331 - INFO - Book returned: [1212919913] Wings of fir by APJ Abdul Kalam - Available
+2025-12-04 22:27:53,762 - INFO - Catalog successfully saved to catalog.json
+2025-12-04 22:27:53,763 - INFO - Book issued: [1212919913] Wings of fir by APJ Abdul Kalam - Issued

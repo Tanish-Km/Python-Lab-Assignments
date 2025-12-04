@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Wings of fir",
+        "author": "APJ Abdul Kalam",
+        "isbn": "1212919913",
+        "status": "issued"
+    },
+    {
+        "title": "Do talk back",
+        "author": "Manish Malhotra",
+        "isbn": "1901200103",
+        "status": "available"
+    }
+]
