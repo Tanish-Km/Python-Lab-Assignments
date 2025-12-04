@@ -1,0 +1,46 @@
+2025-12-04 23:32:43,977 - INFO - === Task 1: Data Ingestion and Validation ===
+2025-12-04 23:32:43,979 - INFO - No CSV files found in data. Generating sample data...
+2025-12-04 23:32:43,992 - INFO - Sample CSV created: data\admin_jan.csv
+2025-12-04 23:32:43,998 - INFO - Sample CSV created: data\library_jan.csv
+2025-12-04 23:32:44,004 - INFO - Sample CSV created: data\hostel_jan.csv
+2025-12-04 23:32:44,006 - INFO - Processing file: data\admin_jan.csv
+2025-12-04 23:32:44,038 - INFO - Processing file: data\hostel_jan.csv
+2025-12-04 23:32:44,105 - INFO - Processing file: data\library_jan.csv
+2025-12-04 23:32:44,138 - INFO - Combined DataFrame shape: (2232, 5)
+2025-12-04 23:32:44,157 - INFO - Daily totals shape: (93, 3)
+2025-12-04 23:32:44,166 - INFO - Weekly aggregates shape: (15, 3)
+2025-12-04 23:32:44,168 - INFO - Building-wise summary:
+               mean    min     max     total
+building                                    
+Admin     49.983293  20.04   79.90  37187.57
+Hostel    74.813777  30.27  119.85  55661.45
+Library   37.801734  15.09   59.99  28124.49
+2025-12-04 23:32:44,180 - INFO - Building summary dict: {'Admin': {'mean': 49.98329301075269, 'min': 20.04, 'max': 79.9, 'total': 37187.57}, 'Hostel': {'mean': 74.81377688172043, 'min': 30.27, 'max': 119.85, 'total': 55661.45}, 'Library': {'mean': 37.801733870967745, 'min': 15.09, 'max': 59.99, 'total': 28124.49}}
+2025-12-04 23:32:44,252 - INFO - OOP building reports: {'Admin': {'total': 37187.57000000001, 'mean': 49.983293010752696, 'min': 20.04, 'max': 79.9}, 'Hostel': {'total': 55661.45, 'mean': 74.81377688172043, 'min': 30.27, 'max': 119.85}, 'Library': {'total': 28124.489999999998, 'mean': 37.80173387096774, 'min': 15.09, 'max': 59.99}}
+2025-12-04 23:32:44,253 - INFO - === Task 4: Creating dashboard visualizations ===
+2025-12-04 23:32:44,862 - INFO - Dashboard saved to output\dashboard.png
+2025-12-04 23:32:44,862 - INFO - === Task 5: Persistence and Executive Summary ===
+2025-12-04 23:32:44,871 - INFO - Cleaned data exported to output\cleaned_energy_data.csv
+2025-12-04 23:32:44,873 - INFO - Building summary exported to output\building_summary.csv
+2025-12-04 23:32:44,882 - INFO - Summary written to output\summary.txt
+2025-12-04 23:32:51,848 - INFO - === Task 1: Data Ingestion and Validation ===
+2025-12-04 23:32:51,849 - INFO - Processing file: data\admin_jan.csv
+2025-12-04 23:32:51,857 - INFO - Processing file: data\hostel_jan.csv
+2025-12-04 23:32:51,864 - INFO - Processing file: data\library_jan.csv
+2025-12-04 23:32:51,872 - INFO - Combined DataFrame shape: (2232, 5)
+2025-12-04 23:32:51,882 - INFO - Daily totals shape: (93, 3)
+2025-12-04 23:32:51,893 - INFO - Weekly aggregates shape: (15, 3)
+2025-12-04 23:32:51,895 - INFO - Building-wise summary:
+               mean    min     max     total
+building                                    
+Admin     49.983293  20.04   79.90  37187.57
+Hostel    74.813777  30.27  119.85  55661.45
+Library   37.801734  15.09   59.99  28124.49
+2025-12-04 23:32:51,913 - INFO - Building summary dict: {'Admin': {'mean': 49.98329301075269, 'min': 20.04, 'max': 79.9, 'total': 37187.57}, 'Hostel': {'mean': 74.81377688172043, 'min': 30.27, 'max': 119.85, 'total': 55661.45}, 'Library': {'mean': 37.801733870967745, 'min': 15.09, 'max': 59.99, 'total': 28124.49}}
+2025-12-04 23:32:51,984 - INFO - OOP building reports: {'Admin': {'total': 37187.57000000001, 'mean': 49.983293010752696, 'min': 20.04, 'max': 79.9}, 'Hostel': {'total': 55661.45, 'mean': 74.81377688172043, 'min': 30.27, 'max': 119.85}, 'Library': {'total': 28124.489999999998, 'mean': 37.80173387096774, 'min': 15.09, 'max': 59.99}}
+2025-12-04 23:32:51,984 - INFO - === Task 4: Creating dashboard visualizations ===
+2025-12-04 23:32:52,526 - INFO - Dashboard saved to output\dashboard.png
+2025-12-04 23:32:52,527 - INFO - === Task 5: Persistence and Executive Summary ===
+2025-12-04 23:32:52,536 - INFO - Cleaned data exported to output\cleaned_energy_data.csv
+2025-12-04 23:32:52,538 - INFO - Building summary exported to output\building_summary.csv
+2025-12-04 23:32:52,541 - INFO - Summary written to output\summary.txt
